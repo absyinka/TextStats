@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T1d4P6t7ZFRdR7X3XgzNm3Ad07pLdQS31jL3OPhbU90oUt4g5N1Yk8yzWZtfGI+oT7huZuq+BlocyJLzC+jV8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmsmr2\\Desktop\\TextStats\\TextStats\\TextStats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmsmr2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
